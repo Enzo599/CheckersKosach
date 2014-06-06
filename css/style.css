@@ -1,0 +1,93 @@
+html {
+	background:#708090;
+	font:12px Verdana, Arial;
+}
+
+.div-main{
+	margin: 48px 0 0 55px;
+}
+
+.header, .kont{
+	width: 600px;
+	padding: 5px;		
+}
+
+.vnesh{
+	margin:10px 0;
+}
+
+.vnutr{
+	height:150px;
+}
+
+
+.center {
+	margin:0 0 0 180px;
+	padding-bottom: 20px;
+	width: 800px;
+
+}
+
+.header {
+	margin: 0 0 0 180px;
+	padding-top:10px; 
+	height:80px;
+	margin-top: 15px;
+}
+
+.kont{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 600px;
+
+}
+
+.header-table{
+	width: 300px;	
+	margin-left: auto;
+	margin-right: auto;	
+	text-align: center;		
+}
+
+.header-button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	padding: 5px 25px;
+}
+
+.header-input{	
+	 font-size: 12px; 
+	 text-align: center;	 
+}
+
+.dark {
+	background-color:#8B2500;
+}
+
+.lite {
+	background-color:#fff;
+}
+
+.dark, .lite{
+ 	height: 50px;
+	width: 50px;
+}
+
+.table-desk{
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-top:20px;	
+}
+
+.div-desk{
+	padding: 0;
+}
+
+.n{
+	 font-size: 18px; 
+	 text-align: center;
+	 font-weight:bold;
+}
+
+
+
